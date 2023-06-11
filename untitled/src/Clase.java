@@ -1,6 +1,5 @@
+
 class Clase {
-    int i;
-    String string = "string1";
     int entero;
     String string;
 
